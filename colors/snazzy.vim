@@ -26,7 +26,7 @@ endif
 
 " Core
 let  red      =  '#ff5c57'
-let  green    =  '#77b791'
+let  green    =  '#5eb588'
 let  blue     =  '#7596e5'
 let  cyan     =  '#56b6c2'
 let  yellow   =  '#c3c96a'
